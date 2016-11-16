@@ -1,9 +1,6 @@
 # Learn-Redux
 Redux study based on WesBos video class: www.learnredux.com
 
-
-A simple React + Redux implementation. This will be turned into a free video series once the app is totally fleshed out.
-
 ## Running
 
 First `npm install` to grab all the necessary dependencies. 
