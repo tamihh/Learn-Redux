@@ -1,6 +1,6 @@
 // a reducer takes in two things:
 
-// 1. the action (info sbout what happened)
+// 1. the action (info about what happened)
 // 2. copy of current this.state.
 
 function comments(state = [], action){
