@@ -4,7 +4,6 @@
 // 2. copy of current this.state.
 
 function comments(state = [], action){
-    console.log(state, action);
     return state;
 }
 
