@@ -5,7 +5,7 @@ import { browserHistory } from 'react-router';
 // import the root reducer
 import rootReducer from './reducers/index';
 
-import comments from './data/posts';
+import comments from './data/comments';
 import posts from './data/posts';
 
 //create an objects for the default data
